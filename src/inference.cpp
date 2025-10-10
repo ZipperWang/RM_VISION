@@ -48,6 +48,11 @@ static void sort_keypoints(cv::Point2f keypoints[4]) {
     keypoints[2] = bottom_points[1];  // bottom-right
     keypoints[3] = top_points[1];     // top-right
 }
+
+
+
+
+
 dataImg preprocessImage(const cv::Mat& img, cv::Size new_shape, cv::Scalar color)
 {
     // Get current shape [height, width]
