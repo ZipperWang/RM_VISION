@@ -1,5 +1,5 @@
 //
-// Created by gx on 24-1-27.
+// Created by gx on 24-1-27. hello学长(*￣︶￣)
 //
 #include "../include/inference.hpp"
 #include <openvino//openvino.hpp>
